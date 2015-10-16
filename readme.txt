@@ -4,4 +4,3 @@ this is second add
 
 
 this is master
-this is slave1
