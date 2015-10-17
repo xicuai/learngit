@@ -1,5 +1,4 @@
-this is mast
 Git is a version control system
 Git is free software
-this is slave1
 
+this is slave1017
