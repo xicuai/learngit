@@ -1,4 +1,4 @@
 Git is a version control system
 Git is a free software
 
-this is slave1017
+The bug is fixed in 1017
