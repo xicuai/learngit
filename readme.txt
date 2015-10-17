@@ -1,4 +1,3 @@
-Git is a version control system
-Git is a free software
+The first time learn git
+The Git is free 
 
-this is master1
